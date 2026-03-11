@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
+    "ip": "OLDSCHOOLSMP2026.aternos.me",
+    "port": 18496,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
